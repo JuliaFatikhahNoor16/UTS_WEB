@@ -12,9 +12,12 @@ Terdapat 3 Role:
   Username: admin
   Password: admin123
 
+
   Pengrajin:
   Username: artisan1
   Password: artisan123
-  Admin:
+
+  
+  Customer:
   Username: customer1
   Password: customer123
